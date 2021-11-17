@@ -3,7 +3,7 @@
 
 > Open this page at [https://ppranavteja.github.io/jumpy-platformer/](https://ppranavteja.github.io/jumpy-platformer/)
 
-## Use as Extension
+## Use as Extension  PranavTeja
 
 This repository can be added as an **extension** in MakeCode.
 
